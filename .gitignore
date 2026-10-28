@@ -1,0 +1,31 @@
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Lambda archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment and credentials
+.env
+.env.*
+*.tfvars
+*.tfvars.json
+
+# IDE
+.vscode/
+.idea/

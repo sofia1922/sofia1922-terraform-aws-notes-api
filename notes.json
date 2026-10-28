@@ -1,0 +1,20 @@
+
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "First note",
+      "content": "Hello from AWS Lambda!"
+    },
+    {
+      "id": 2,
+      "title": "DevOps Lab",
+      "content": "Terraform, API Gateway, Lambda and S3"
+    },
+    {
+      "id": 3,
+      "title": "Cloud Computing",
+      "content": "This data is stored in Amazon S3"
+    }
+  ]
+}
